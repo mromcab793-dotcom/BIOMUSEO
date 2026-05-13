@@ -1,0 +1,2664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513180852RGEI4N</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260513180852RQ88WX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>BIOMUSEO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>MI HISTORIA, MI MUSEO. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Romero Cabello. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto “Biomuseo: mi historia, mi museo” está dirigido al alumnado de 1.º de Educación Primaria (6-7 años) y propone la creación de un museo autobiográfico interactivo en el que cada alumno y alumna representa su historia personal a través del pasado, el presente y el futuro.
+
+A lo largo de la situación de aprendizaje, el alumnado trabajará la identidad personal, la familia, el paso del tiempo y la proyección de su futuro mediante actividades creativas, artísticas y digitales. Se utilizarán diferentes herramientas como grabación de audio y vídeo, creación de imágenes, líneas del tiempo y recursos interactivos, fomentando así el desarrollo de la competencia digital de forma guiada y adaptada a la edad.
+
+El producto final será la creación de un museo en el centro educativo, donde se expondrán las producciones del alumnado de manera organizada e interactiva, convirtiendo el aprendizaje en una experiencia significativa, motivadora y cercana a su realidad.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778688528864</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp4984h1-2aoygb744</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h1-2aoygb744</odePageId>
+      <odeBlockId>block-1778429768973-bwaqbq152</odeBlockId>
+      <blockName>¿BIO...QUÉ?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h1-2aoygb744</odePageId>
+          <odeBlockId>block-1778429768973-bwaqbq152</odeBlockId>
+          <odeIdeviceId>idevice-1778429768971-susm6qna1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"BIOMUSEO" es un proyecto dirigido al alumnado de primero de primaria. Se centra en el conocimiento de uno mismo y el paso del tiempo, a través de la creación de un museo autobiográfico donde el alumnado representa su historia personal (pasado, presente y futuro). Se abordarán aspectos como la identidad personal, la familia, el cambio a lo largo del tiempo, etc.</p>
+<p>La duración aproximada del proyecto será de 2 a 3 semanas, distribuidas en unas 10-15 sesiones entre las distintas áreas implicadas.</p>
+<p>Las áreas de aprendizaje que se desarrollarán serán:</p>
+<ul>
+<li>Lengua Castellana y Literatura: expresión y comprensión oral y escrita.</li>
+<li>Matemáticas: unidades de medida del tiempo y sentido numérico.</li>
+<li>Conocimiento del Medio: el paso del tiempo y la evolución personal.<br /> </li>
+</ul>
+<p><img src="{{context_path}}/content/resources/mceclip13.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778429768971-susm6qna1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"BIOMUSEO\" es un proyecto dirigido al alumnado de primero de primaria. Se centra en el conocimiento de uno mismo y el paso del tiempo, a través de la creación de un museo autobiográfico donde el alumnado representa su historia personal (pasado, presente y futuro). Se abordarán aspectos como la identidad personal, la familia, el cambio a lo largo del tiempo, etc.</p>\n<p>La duración aproximada del proyecto será de 2 a 3 semanas, distribuidas en unas 10-15 sesiones entre las distintas áreas implicadas.</p>\n<p>Las áreas de aprendizaje que se desarrollarán serán:</p>\n<ul>\n<li>Lengua Castellana y Literatura: expresión y comprensión oral y escrita.</li>\n<li>Matemáticas: unidades de medida del tiempo y sentido numérico.</li>\n<li>Conocimiento del Medio: el paso del tiempo y la evolución personal.<br /> </li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/mceclip13.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h4-87kfvdxnn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NORMAS DEL MUSEO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NORMAS DEL MUSEO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NORMAS DEL MUSEO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h4-87kfvdxnn</odePageId>
+      <odeBlockId>block-1778430073616-mo3rxu49e</odeBlockId>
+      <blockName>Normas digitales de nuestro museo autobiográfico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h4-87kfvdxnn</odePageId>
+          <odeBlockId>block-1778430073616-mo3rxu49e</odeBlockId>
+          <odeIdeviceId>idevice-1778430073615-tfdzrn689</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar la creación de nuestro museo autobiográfico, es importante conocer algunas normas básicas para cuidar nuestra información personal y respetar la de los demás. A través de esta infografía aprenderemos a proteger nuestros datos personales, hacer un uso responsable de las imágenes y actuar de forma segura en el entorno digital.</p>
+<p>Nuestro museo será un espacio seguro donde compartiremos recuerdos, experiencias e información personal con respeto y responsabilidad.</p>
+<p><img src="{{context_path}}/content/resources/2.3. licencias y seguridad.png" /><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430073615-tfdzrn689","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar la creación de nuestro museo autobiográfico, es importante conocer algunas normas básicas para cuidar nuestra información personal y respetar la de los demás. A través de esta infografía aprenderemos a proteger nuestros datos personales, hacer un uso responsable de las imágenes y actuar de forma segura en el entorno digital.</p>\n<p>Nuestro museo será un espacio seguro donde compartiremos recuerdos, experiencias e información personal con respeto y responsabilidad.</p>\n<p><img src=\"{{context_path}}/content/resources/2.3. licencias y seguridad.png\" /><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+      <odeBlockId>block-1778430189186-2gzvddsvm</odeBlockId>
+      <blockName>¿Cómo crearemos un museo autobiográfico?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+          <odeBlockId>block-1778430189186-2gzvddsvm</odeBlockId>
+          <odeIdeviceId>idevice-1778430189185-0ah44xvhz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto “Biomuseo: mi historia, mi museo”, consistirá en la creación de un museo autobiográfico interactivo en el que cada alumno y alumna representará su historia personal (pasado, presente y futuro) mediante diferentes recursos digitales y actividades. Para ello, se transformará uno de los pasillos del centro en una exposición dividida en tres grandes espacios: pasado, presente y futuro.</p>
+<p>A lo largo del pasillo se irán colocando diferentes obras, murales, fotografías, dibujos, líneas del tiempo y producciones realizadas por el alumnado, representando aspectos importantes de su vida, sus recuerdos, su familia, sus gustos actuales y cómo imaginan su futuro. Cada creación permitirá al alumnado expresar su identidad personal y reflexionar sobre el paso del tiempo de una manera cercana y significativa.</p>
+<p>Con el fin de convertir el museo en una experiencia más motivadora e interactiva, se incorporarán distintas herramientas digitales que enriquecerán las producciones del alumnado y favorecerán el desarrollo de la competencia digital desde edades tempranas.</p>
+<p>De esta manera, el museo no será únicamente una exposición visual, sino también una experiencia interactiva en la que las familias y el resto de la comunidad educativa podrán escuchar, observar y descubrir las historias personales del alumnado mediante recursos digitales.</p>
+<p>A través de este proyecto, el alumnado se iniciará de forma guiada y segura en el uso de herramientas tecnológicas básicas, desarrollando progresivamente la competencia digital mediante actividades adaptadas a su edad, fomentando además la creatividad, la expresión oral y artística, la autonomía y el aprendizaje significativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430189185-0ah44xvhz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto “Biomuseo: mi historia, mi museo”, consistirá en la creación de un museo autobiográfico interactivo en el que cada alumno y alumna representará su historia personal (pasado, presente y futuro) mediante diferentes recursos digitales y actividades. Para ello, se transformará uno de los pasillos del centro en una exposición dividida en tres grandes espacios: pasado, presente y futuro.</p>\n<p>A lo largo del pasillo se irán colocando diferentes obras, murales, fotografías, dibujos, líneas del tiempo y producciones realizadas por el alumnado, representando aspectos importantes de su vida, sus recuerdos, su familia, sus gustos actuales y cómo imaginan su futuro. Cada creación permitirá al alumnado expresar su identidad personal y reflexionar sobre el paso del tiempo de una manera cercana y significativa.</p>\n<p>Con el fin de convertir el museo en una experiencia más motivadora e interactiva, se incorporarán distintas herramientas digitales que enriquecerán las producciones del alumnado y favorecerán el desarrollo de la competencia digital desde edades tempranas.</p>\n<p>De esta manera, el museo no será únicamente una exposición visual, sino también una experiencia interactiva en la que las familias y el resto de la comunidad educativa podrán escuchar, observar y descubrir las historias personales del alumnado mediante recursos digitales.</p>\n<p>A través de este proyecto, el alumnado se iniciará de forma guiada y segura en el uso de herramientas tecnológicas básicas, desarrollando progresivamente la competencia digital mediante actividades adaptadas a su edad, fomentando además la creatividad, la expresión oral y artística, la autonomía y el aprendizaje significativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+      <odeBlockId>block-1778435479204-mzxf0jk08</odeBlockId>
+      <blockName>SECUENCIA TEMPORAL DE ACTIVIDADES.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+          <odeBlockId>block-1778435479204-mzxf0jk08</odeBlockId>
+          <odeIdeviceId>idevice-1778435479204-brpa5noie</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de esta parte del proyecto se van a organizar temporalmente distintas actividades y sesiones en las que se trabajará el pasado, el presente y el futuro. Todas ellas van a permitir al alumnado conocerse mejor, reflexionar sobre su historia personal y aprender a expresarse de diferentes formas.</p>
+<p><img src="{{context_path}}/content/resources/mceclip11.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435479204-brpa5noie","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de esta parte del proyecto se van a organizar temporalmente distintas actividades y sesiones en las que se trabajará el pasado, el presente y el futuro. Todas ellas van a permitir al alumnado conocerse mejor, reflexionar sobre su historia personal y aprender a expresarse de diferentes formas.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip11.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+      <odeBlockId>block-1778430336279-ej3c84g39</odeBlockId>
+      <blockName>Herramientas digitales a utilizar.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h5-1a88jr4w2</odePageId>
+          <odeBlockId>block-1778430336279-ej3c84g39</odeBlockId>
+          <odeIdeviceId>idevice-1778430336277-s2rzqqrgy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎥 Croma, vídeo y fotografía: se utilizarán para grabar pequeñas representaciones y crear imágenes relacionadas con las distintas etapas de la vida del alumnado.<br />🎙️ Audacity: permitirá grabar audios en los que cada niño y niña explicará sus recuerdos, experiencias, gustos o sueños de futuro.<br />📱 Tabletas: se emplearán para realizar actividades guiadas, búsquedas sencillas de información y dinámicas digitales relacionadas con el proyecto.<br />🔳 Códigos QR: integrados en las diferentes obras y murales del museo, permitirán acceder a vídeos, audios e imágenes creados por el alumnado, aportando interactividad a la exposición.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430336277-s2rzqqrgy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎥 Croma, vídeo y fotografía: se utilizarán para grabar pequeñas representaciones y crear imágenes relacionadas con las distintas etapas de la vida del alumnado.<br />🎙️ Audacity: permitirá grabar audios en los que cada niño y niña explicará sus recuerdos, experiencias, gustos o sueños de futuro.<br />📱 Tabletas: se emplearán para realizar actividades guiadas, búsquedas sencillas de información y dinámicas digitales relacionadas con el proyecto.<br />🔳 Códigos QR: integrados en las diferentes obras y murales del museo, permitirán acceder a vídeos, audios e imágenes creados por el alumnado, aportando interactividad a la exposición.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h6-mvt2tfjx0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-mvt2tfjx0</odePageId>
+      <odeBlockId>block-1778430748684-4iq2ghwov</odeBlockId>
+      <blockName>NUESTRA AVENTURA COMIENZA...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-mvt2tfjx0</odePageId>
+          <odeBlockId>block-1778430748684-4iq2ghwov</odeBlockId>
+          <odeIdeviceId>idevice-1778430748682-xwj4wyqbi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hoy vamos a convertirnos en pequeños exploradores del tiempo. Primero vamos a descubrir algo importante: ¿qué es un museo? Pensaremos juntos qué hay en un museo, para qué sirve y qué cosas podemos encontrar en él. Después nos haremos una pregunta muy especial…</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/i4zrvX7Tpfc" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p>¿Y si existiera un museo donde se contara la historia de una persona? ¿Cómo lo llamarías?</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778430748682-xwj4wyqbi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a convertirnos en pequeños exploradores del tiempo. Primero vamos a descubrir algo importante: ¿qué es un museo? Pensaremos juntos qué hay en un museo, para qué sirve y qué cosas podemos encontrar en él. Después nos haremos una pregunta muy especial…</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/i4zrvX7Tpfc\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<p>¿Y si existiera un museo donde se contara la historia de una persona? ¿Cómo lo llamarías?</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-mvt2tfjx0</odePageId>
+      <odeBlockId>block-1778431246305-1rcx9ze61</odeBlockId>
+      <blockName>¡Hablamos y compartimos nuestra vida!.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-mvt2tfjx0</odePageId>
+          <odeBlockId>block-1778431246305-1rcx9ze61</odeBlockId>
+          <odeIdeviceId>idevice-1778431246304-yexmgbome</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora vamos a hablar juntos en clase. Pensaremos:</p>
+<ul>
+<li>¿Podemos contar nuestra propia historia en un museo?</li>
+<li>¿Qué cosas de nuestra vida nos gustaría enseñar?</li>
+<li>¿Cómo lo haríamos para que otros lo entiendan?</li>
+</ul>
+<p>Después veremos ejemplos de líneas del tiempo 🕰️ y descubriremos algo muy importante: nuestra vida tiene momentos. Primero cuando éramos pequeños, después lo que vivimos ahora y también lo que queremos ser en el futuro.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/gKrnRl-XkwI" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431246304-yexmgbome","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora vamos a hablar juntos en clase. Pensaremos:</p>\n<ul>\n<li>¿Podemos contar nuestra propia historia en un museo?</li>\n<li>¿Qué cosas de nuestra vida nos gustaría enseñar?</li>\n<li>¿Cómo lo haríamos para que otros lo entiendan?</li>\n</ul>\n<p>Después veremos ejemplos de líneas del tiempo 🕰️ y descubriremos algo muy importante: nuestra vida tiene momentos. Primero cuando éramos pequeños, después lo que vivimos ahora y también lo que queremos ser en el futuro.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/gKrnRl-XkwI\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NUESTRO PASADO.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO PASADO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO PASADO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+      <odeBlockId>block-1778431488863-1yhtbta4h</odeBlockId>
+      <blockName>Mi pasado.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+          <odeBlockId>block-1778431488863-1yhtbta4h</odeBlockId>
+          <odeIdeviceId>idevice-1778431488862-c226idf8b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora vamos a empezar a mirar hacia atrás en nuestra vida. Recordaremos cuando éramos más pequeños, nuestras primeras experiencias, nuestra familia, nuestros juegos favoritos y momentos que ya hemos vivido.</p>
+<p>A través de dibujos, fotos y pequeñas explicaciones, vamos a descubrir que nuestro pasado forma parte de nuestra historia y nos ayuda a entender quiénes somos hoy.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431488862-c226idf8b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora vamos a empezar a mirar hacia atrás en nuestra vida. Recordaremos cuando éramos más pequeños, nuestras primeras experiencias, nuestra familia, nuestros juegos favoritos y momentos que ya hemos vivido.</p>\n<p>A través de dibujos, fotos y pequeñas explicaciones, vamos a descubrir que nuestro pasado forma parte de nuestra historia y nos ayuda a entender quiénes somos hoy.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+      <odeBlockId>block-1778431608056-tqqlf4dgc</odeBlockId>
+      <blockName>Mi caja de la vida.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+          <odeBlockId>block-1778431608056-tqqlf4dgc</odeBlockId>
+          <odeIdeviceId>idevice-1778431608055-4vofz2bu4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Vamos a construir algo muy especial! </p>
+<p>Cada uno de vosotros va a crear una caja del pasado, que será como un pequeño tesoro donde guardaréis recuerdos de cuando erais más pequeños o pequeñas.</p>
+<p>Dentro de la caja podréis meter:</p>
+<ul>
+<li> Fotos de cuando erais bebés o más pequeños.</li>
+<li> Un objeto que os recuerde vuestra infancia (un juguete, un chupete, un dibujo…).</li>
+<li>Algo que os ayude a contar vuestra historia (una palabra, un papel con un recuerdo, un dibujo…).</li>
+<li>Después, cada uno enseñará su caja a la clase y explicará qué ha puesto y por qué es importante para su historia. </li>
+</ul>
+<p>Por último, grabaremos un pequeño vídeo de cada presentación para guardarlo en nuestro Biomuseo y poder recordar siempre nuestro pasado. <br /> <br /> <img src="{{context_path}}/content/resources/mceclip9.jpg" /></p>
+<p><br /> </p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431608055-4vofz2bu4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Vamos a construir algo muy especial! </p>\n<p>Cada uno de vosotros va a crear una caja del pasado, que será como un pequeño tesoro donde guardaréis recuerdos de cuando erais más pequeños o pequeñas.</p>\n<p>Dentro de la caja podréis meter:</p>\n<ul>\n<li> Fotos de cuando erais bebés o más pequeños.</li>\n<li> Un objeto que os recuerde vuestra infancia (un juguete, un chupete, un dibujo…).</li>\n<li>Algo que os ayude a contar vuestra historia (una palabra, un papel con un recuerdo, un dibujo…).</li>\n<li>Después, cada uno enseñará su caja a la clase y explicará qué ha puesto y por qué es importante para su historia. </li>\n</ul>\n<p>Por último, grabaremos un pequeño vídeo de cada presentación para guardarlo en nuestro Biomuseo y poder recordar siempre nuestro pasado. <br /> <br /> <img src=\"{{context_path}}/content/resources/mceclip9.jpg\" /></p>\n<p><br /> </p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+      <odeBlockId>block-1778431665888-weei4elud</odeBlockId>
+      <blockName>Mi pasado en fotos.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+          <odeBlockId>block-1778431665888-weei4elud</odeBlockId>
+          <odeIdeviceId>idevice-1778431665887-82b2h8oxp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vas a organizar fotos de cuando eras pequeño o pequeña en orden, desde las más antiguas hasta las más recientes. Así verás cómo has ido creciendo con el tiempo. 📸</p>
+<p>Después, con cada foto vas a hacer lo siguiente:</p>
+<ul>
+<li>Explicar qué aparece en la imagen (puedes contarlo en voz alta).</li>
+<li>Escribir una frase sencilla sobre ese recuerdo (por ejemplo: “Aquí estaba en mi primer cumpleaños”).</li>
+<li>Con este álbum vamos a aprender algo muy importante: que las personas cambiamos y crecemos con el paso del tiempo.<img src="{{context_path}}/content/resources/fotoblend-photos-7666143_1920.jpg" width="958" height="637" alt="" /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431665887-82b2h8oxp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad vas a organizar fotos de cuando eras pequeño o pequeña en orden, desde las más antiguas hasta las más recientes. Así verás cómo has ido creciendo con el tiempo. 📸</p>\n<p>Después, con cada foto vas a hacer lo siguiente:</p>\n<ul>\n<li>Explicar qué aparece en la imagen (puedes contarlo en voz alta).</li>\n<li>Escribir una frase sencilla sobre ese recuerdo (por ejemplo: “Aquí estaba en mi primer cumpleaños”).</li>\n<li>Con este álbum vamos a aprender algo muy importante: que las personas cambiamos y crecemos con el paso del tiempo.<img src=\"{{context_path}}/content/resources/fotoblend-photos-7666143_1920.jpg\" width=\"958\" height=\"637\" alt=\"\" /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+      <odeBlockId>block-1778431916692-aebttvfn9</odeBlockId>
+      <blockName>INVESTIGACIÓN GUIADA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+          <odeBlockId>block-1778431916692-aebttvfn9</odeBlockId>
+          <odeIdeviceId>idevice-1778431916691-edh9cnbug</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Nuestro apellido forma parte de nuestro pasado y nos conecta con nuestra familia, nuestras raíces y nuestra historia personal. Por eso, hoy vamos a intentar descubrirlo como auténticos investigadores.</p>
+<p><img src="{{context_path}}/content/resources/mceclip6.png" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Con la maestra o el maestro, buscaremos en internet de forma guiada el posible origen y significado de nuestro apellido.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si no encontramos nuestro apellido, probaremos con variantes o preguntaremos a la familia. Lo importante es intentar descubrir algo de nuestra historia.</p>
+<p>Enlaces:https://www.heraldicadeapellidos.com/</p>
+<p><br /></p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Organizaremos la información que encontremos en una infografía sencilla, explicando lo más importante sobre nuestro apellido.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Revisaremos que tenga título, apellido, significado y una imagen clara.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p><span>Después, dibujaremos nuestro apellido como si fuera un cuadro, decorándolo de forma creativa y personal</span></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Revisamos: que el diseño sea personal, creativo y relacionado con nuestra historia.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Por último, todo nuestro trabajo se convertirá en un código QR creado por la maestra o el maestro. Ese QR lo colocaremos en la parte del pasado de nuestro Biomuseo 🏛️ para que cualquiera pueda escanearlo y descubrir una parte de nuestra historia familiar.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Comprobamos el QR con una tablet para ver si funciona correctamente antes de colocarlo en el museo.</p>
+<p>enlace: https://www.qrcode-monkey.com/es/</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778431916691-edh9cnbug","typeGame":"Case study","history":"<p>Nuestro apellido forma parte de nuestro pasado y nos conecta con nuestra familia, nuestras raíces y nuestra historia personal. Por eso, hoy vamos a intentar descubrirlo como auténticos investigadores.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip6.png\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Con la maestra o el maestro, buscaremos en internet de forma guiada el posible origen y significado de nuestro apellido.</p>","feedback":"<p>Si no encontramos nuestro apellido, probaremos con variantes o preguntaremos a la familia. Lo importante es intentar descubrir algo de nuestra historia.</p>\n<p>Enlaces:https://www.heraldicadeapellidos.com/</p>\n<p><br /></p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Organizaremos la información que encontremos en una infografía sencilla, explicando lo más importante sobre nuestro apellido.</p>","feedback":"<p>Revisaremos que tenga título, apellido, significado y una imagen clara.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p><span>Después, dibujaremos nuestro apellido como si fuera un cuadro, decorándolo de forma creativa y personal</span></p>","feedback":"<p>Revisamos: que el diseño sea personal, creativo y relacionado con nuestra historia.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Por último, todo nuestro trabajo se convertirá en un código QR creado por la maestra o el maestro. Ese QR lo colocaremos en la parte del pasado de nuestro Biomuseo 🏛️ para que cualquiera pueda escanearlo y descubrir una parte de nuestra historia familiar.</p>","feedback":"<p>Comprobamos el QR con una tablet para ver si funciona correctamente antes de colocarlo en el museo.</p>\n<p>enlace: https://www.qrcode-monkey.com/es/</p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+      <odeBlockId>block-1778432447717-d4uju3a4v</odeBlockId>
+      <blockName>ÁRBOL GENEALÓGICO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h6-syu1y1nwg</odePageId>
+          <odeBlockId>block-1778432447717-d4uju3a4v</odeBlockId>
+          <odeIdeviceId>idevice-1778432447716-qt3eberop</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Una parte muy importante de nuestra vida es la familia, por ello vamos a detenernos a conocer mejor de dónde venimos y quiénes forman parte de nuestra historia personal. Nuestra familia también forma parte de nuestro pasado y nos ayuda a entender quiénes somos hoy.</p>
+<p><img src="{{context_path}}/content/resources/mceclip8.png" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Investigamos en casa. Vamos a hablar con nuestras familias y preguntar:</p>
+<ul>
+<li>¿Quiénes son nuestros abuelos y abuelas?</li>
+<li>¿Cómo se llaman nuestros familiares más cercanos?</li>
+<li>¿Hay alguna historia bonita o curiosa de nuestra familia?</li>
+</ul>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>En esta actividad vamos a aprender algo muy importante : todas las familias son diferentes y todas son igual de valiosas </p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Con la información recogida, vamos a hacer un árbol genealógico sencillo donde colocaremos a nuestros familiares como las ramas de nuestra historia.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Sigue la plantilla que se ha presentado en clase. </p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Entre todos creamos un gran mural en el pasillo del colegio. Cada alumno/a aporta su árbol genealógico para formar un gran bosque de familias</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Completa la plantilla con la información de la actividad anterior. Recuerda escribir bien los nombres y colorear de forma adecuada. </p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Compartimos con la clase. Cada alumno/a explica quién forma parte de su familia y lo que ha aprendido sobre sus raíces</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>No olvides utilizar las palabras mágicas para que la exposición sea genial. </p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778432447716-qt3eberop","typeGame":"Case study","history":"<p>Una parte muy importante de nuestra vida es la familia, por ello vamos a detenernos a conocer mejor de dónde venimos y quiénes forman parte de nuestra historia personal. Nuestra familia también forma parte de nuestro pasado y nos ayuda a entender quiénes somos hoy.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip8.png\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Investigamos en casa. Vamos a hablar con nuestras familias y preguntar:</p>\n<ul>\n<li>¿Quiénes son nuestros abuelos y abuelas?</li>\n<li>¿Cómo se llaman nuestros familiares más cercanos?</li>\n<li>¿Hay alguna historia bonita o curiosa de nuestra familia?</li>\n</ul>","feedback":"<p>En esta actividad vamos a aprender algo muy importante : todas las familias son diferentes y todas son igual de valiosas </p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Con la información recogida, vamos a hacer un árbol genealógico sencillo donde colocaremos a nuestros familiares como las ramas de nuestra historia.</p>","feedback":"<p>Sigue la plantilla que se ha presentado en clase. </p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Entre todos creamos un gran mural en el pasillo del colegio. Cada alumno/a aporta su árbol genealógico para formar un gran bosque de familias</p>","feedback":"<p>Completa la plantilla con la información de la actividad anterior. Recuerda escribir bien los nombres y colorear de forma adecuada. </p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Compartimos con la clase. Cada alumno/a explica quién forma parte de su familia y lo que ha aprendido sobre sus raíces</p>","feedback":"<p>No olvides utilizar las palabras mágicas para que la exposición sea genial. </p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NUESTRO PRESENTE. </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO PRESENTE. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO PRESENTE. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+      <odeBlockId>block-1778432826430-qeqv6z64f</odeBlockId>
+      <blockName>¿Quién soy hoy?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+          <odeBlockId>block-1778432826430-qeqv6z64f</odeBlockId>
+          <odeIdeviceId>idevice-1778432826428-d6ub6oica</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora que ya hemos viajado a nuestro pasado, vamos a mirar el momento en el que estamos ahora: nuestro presente.</p>
+<p>En esta parte del proyecto vamos a descubrir una idea muy importante para contar nuestra historia: la <strong>autobiografía.</strong></p>
+<p>Primero veremos un vídeo sencillo para entender qué es. Después del vídeo, vamos a hacer algo muy especial: contaremos de forma oral nuestra autobiografía, explicando quiénes somos, cómo somos y cosas importantes de nuestra vida en este momento.</p>
+<p><strong><video width="300" height="150" controls="controls">
+<source src="Primero veremos un vídeo sencillo para entender qué es. Después del vídeo, vamos a hacer algo muy especial: contaremos de forma oral nuestra autobiografía, explicando quiénes somos, cómo somos y cosas importantes de nuestra vida en este momento" /></video></strong></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432826428-d6ub6oica","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora que ya hemos viajado a nuestro pasado, vamos a mirar el momento en el que estamos ahora: nuestro presente.</p>\n<p>En esta parte del proyecto vamos a descubrir una idea muy importante para contar nuestra historia: la <strong>autobiografía.</strong></p>\n<p>Primero veremos un vídeo sencillo para entender qué es. Después del vídeo, vamos a hacer algo muy especial: contaremos de forma oral nuestra autobiografía, explicando quiénes somos, cómo somos y cosas importantes de nuestra vida en este momento.</p>\n<p><strong><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"Primero veremos un vídeo sencillo para entender qué es. Después del vídeo, vamos a hacer algo muy especial: contaremos de forma oral nuestra autobiografía, explicando quiénes somos, cómo somos y cosas importantes de nuestra vida en este momento\" /></video></strong></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+      <odeBlockId>block-1778433116169-3xy742uoy</odeBlockId>
+      <blockName>Conocemos a Frida Kahlo y el autorretrato.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+          <odeBlockId>block-1778433116169-3xy742uoy</odeBlockId>
+          <odeIdeviceId>idevice-1778433116167-1e8oscmmq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a ver un vídeo muy especial sobre una pintora llamada Frida Kahlo.En el vídeo descubriremos cómo fue su vida y algunas de sus obras de arte. Veremos que a Frida le gustaba mucho pintarse a sí misma, creando lo que llamamos autorretratos. Así aprenderemos qué es un autorretrato: cuando un artista se dibuja a sí mismo mostrando cómo es o cómo se siente.</p>
+<p><video width="300" height="150" controls="controls">
+<source src="Así aprenderemos qué es un autorretrato: cuando un artista se dibuja a sí mismo mostrando cómo es o cómo se siente" /></video></p>
+<p>Después del vídeo, hablaremos en clase sobre lo que hemos visto y sobre cómo cada persona puede representarse de manera única en su propio autorretrato dentro del Biomuseo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433116167-1e8oscmmq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a ver un vídeo muy especial sobre una pintora llamada Frida Kahlo.En el vídeo descubriremos cómo fue su vida y algunas de sus obras de arte. Veremos que a Frida le gustaba mucho pintarse a sí misma, creando lo que llamamos autorretratos. Así aprenderemos qué es un autorretrato: cuando un artista se dibuja a sí mismo mostrando cómo es o cómo se siente.</p>\n<p><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"Así aprenderemos qué es un autorretrato: cuando un artista se dibuja a sí mismo mostrando cómo es o cómo se siente\" /></video></p>\n<p>Después del vídeo, hablaremos en clase sobre lo que hemos visto y sobre cómo cada persona puede representarse de manera única en su propio autorretrato dentro del Biomuseo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+      <odeBlockId>block-1778433304339-y9eg15fhr</odeBlockId>
+      <blockName>Mi autorretrato simétrico.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+          <odeBlockId>block-1778433304339-y9eg15fhr</odeBlockId>
+          <odeIdeviceId>idevice-1778433304338-uxwruaqo6</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Seguimos trabajando nuestro presente  y ahora vamos a convertirnos en artistas como Frida Kahlo.</p>
+<p>En actividades anteriores hemos aprendido qué es un autorretrato: una forma de representarnos a nosotros mismos. Ahora vamos a crear el nuestro de una forma muy especial utilizando el Croma y la cámara.</p>
+<p><img src="{{context_path}}/content/resources/mceclip5.jpg" /></p>
+<p></p>
+<p></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Nos fotografiamos.<br />Usaremos el Croma y la cámara para hacer una foto de nuestro rostro.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si la imagen no está bien encuadrada o no se ve el rostro completo, se repite la foto para asegurar una buena base de trabajo.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Con ayuda del docente, imprimiremos la foto y la recortaremos por la mitad siguiendo el eje de simetría.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si el corte no sigue correctamente el eje de simetría, el docente guía al alumnado marcando previamente la línea central para facilitar la tarea.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Cada alumno/a deberá dibujar la parte que falta de su rostro, completando así su autorretrato simétrico, pero antes de empezar veremos el siguiente vídeo para comprender el concepto de simetría. <iframe width="560" height="314" src="https://www.youtube.com/embed/GsSUFYHXUw4" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si el dibujo no respeta la forma del rostro o la simetría, se ofrecen modelos visuales y apoyo paso a paso para mejorar la proporción y el detalle.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Para afianzar la idea de simetría, realizaremos actividades interactivas:</p>
+<p><a href="https://www.liveworksheets.com/es/worksheet/es/geometria/238643" title="">https://www.liveworksheets.com/es/worksheet/es/geometria/238643</a><br /></p>
+<p><a href="https://www.liveworksheets.com/es/worksheet/es/matematicas/2009380">https://www.liveworksheets.com/es/worksheet/es/matematicas/2009380</a></p>
+<p><br /></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si el alumnado presenta errores en las actividades digitales, se revisan juntos las respuestas y se refuerza el concepto con nuevas explicaciones guiadas.</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778433304338-uxwruaqo6","typeGame":"Case study","history":"<p>Seguimos trabajando nuestro presente  y ahora vamos a convertirnos en artistas como Frida Kahlo.</p>\n<p>En actividades anteriores hemos aprendido qué es un autorretrato: una forma de representarnos a nosotros mismos. Ahora vamos a crear el nuestro de una forma muy especial utilizando el Croma y la cámara.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.jpg\" /></p>\n<p></p>\n<p></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Nos fotografiamos.<br />Usaremos el Croma y la cámara para hacer una foto de nuestro rostro.</p>","feedback":"<p>Si la imagen no está bien encuadrada o no se ve el rostro completo, se repite la foto para asegurar una buena base de trabajo.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Con ayuda del docente, imprimiremos la foto y la recortaremos por la mitad siguiendo el eje de simetría.</p>","feedback":"<p>Si el corte no sigue correctamente el eje de simetría, el docente guía al alumnado marcando previamente la línea central para facilitar la tarea.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Cada alumno/a deberá dibujar la parte que falta de su rostro, completando así su autorretrato simétrico, pero antes de empezar veremos el siguiente vídeo para comprender el concepto de simetría. <iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/GsSUFYHXUw4\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","feedback":"<p>Si el dibujo no respeta la forma del rostro o la simetría, se ofrecen modelos visuales y apoyo paso a paso para mejorar la proporción y el detalle.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Para afianzar la idea de simetría, realizaremos actividades interactivas:</p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/es/geometria/238643\" title=\"\">https://www.liveworksheets.com/es/worksheet/es/geometria/238643</a><br /></p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/es/matematicas/2009380\">https://www.liveworksheets.com/es/worksheet/es/matematicas/2009380</a></p>\n<p><br /></p>","feedback":"<p>Si el alumnado presenta errores en las actividades digitales, se revisan juntos las respuestas y se refuerza el concepto con nuevas explicaciones guiadas.</p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+      <odeBlockId>block-1778433554271-cil9028jb</odeBlockId>
+      <blockName>Mi vida en un cuadro.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h8-mrhgqw742</odePageId>
+          <odeBlockId>block-1778433554271-cil9028jb</odeBlockId>
+          <odeIdeviceId>idevice-1778433554270-08td541yd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Seguimos trabajando nuestro presente y ahora vamos a convertirnos en verdaderos artistas.</p>
+<p>Vamos a realizar un cuadro muy especial: un autorretrato creativo. No será un dibujo normal de nosotros mismos, sino que nos representaremos haciendo cosas que reflejen nuestra vida, nuestros gustos y nuestros intereses. Podemos dibujarnos jugando, leyendo, haciendo deporte, con nuestra familia, en el colegio o realizando nuestras aficiones favoritas.</p>
+<p>La idea es que el cuadro muestre cómo somos y qué nos gusta en este momento de nuestra vida. Será como “pintar nuestra vida”</p>
+<p>Cuando terminemos, expondremos nuestros cuadros en el museo del pasillo junto con un pequeño texto escrito a modo de inscripción, donde explicaremos lo que aparece en nuestra obra.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433554270-08td541yd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Seguimos trabajando nuestro presente y ahora vamos a convertirnos en verdaderos artistas.</p>\n<p>Vamos a realizar un cuadro muy especial: un autorretrato creativo. No será un dibujo normal de nosotros mismos, sino que nos representaremos haciendo cosas que reflejen nuestra vida, nuestros gustos y nuestros intereses. Podemos dibujarnos jugando, leyendo, haciendo deporte, con nuestra familia, en el colegio o realizando nuestras aficiones favoritas.</p>\n<p>La idea es que el cuadro muestre cómo somos y qué nos gusta en este momento de nuestra vida. Será como “pintar nuestra vida”</p>\n<p>Cuando terminemos, expondremos nuestros cuadros en el museo del pasillo junto con un pequeño texto escrito a modo de inscripción, donde explicaremos lo que aparece en nuestra obra.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NUESTRO FUTURO.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO FUTURO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO FUTURO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+      <odeBlockId>block-1778433704393-laka3339g</odeBlockId>
+      <blockName>Nos adentramos en el futuro.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+          <odeBlockId>block-1778433704393-laka3339g</odeBlockId>
+          <odeIdeviceId>idevice-1778433704391-gyqunvnzd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llegados a este punto, podems dar  un paso más en nuestro Biomuseo y vamos a mirar hacia adelante: el futuro.</p>
+<p>En esta parte del proyecto vamos a imaginar cómo nos gustaría ser de mayores, qué queremos aprender, a qué nos gustaría dedicarnos o cómo soñamos que será nuestra vida.</p>
+<p>Pero para empezar, debemos tener claro qué es el tiempo y su división en pasado, presente y futuro. </p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/Nnsz4YOaFlw" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433704391-gyqunvnzd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llegados a este punto, podems dar  un paso más en nuestro Biomuseo y vamos a mirar hacia adelante: el futuro.</p>\n<p>En esta parte del proyecto vamos a imaginar cómo nos gustaría ser de mayores, qué queremos aprender, a qué nos gustaría dedicarnos o cómo soñamos que será nuestra vida.</p>\n<p>Pero para empezar, debemos tener claro qué es el tiempo y su división en pasado, presente y futuro. </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Nnsz4YOaFlw\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+      <odeBlockId>block-1778433823074-cvnjgdn44</odeBlockId>
+      <blockName>MI LÍNEA DEL TIEMPO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+          <odeBlockId>block-1778433823074-cvnjgdn44</odeBlockId>
+          <odeIdeviceId>idevice-1778433823073-mliamipvf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>En una cartulina vamos a crear nuestra línea del tiempo personal. Para ello, utilizaremos fotografías de diferentes momentos importantes de nuestra vida. Las colocaremos en orden, desde el pasado hasta el presente, e incluso podemos incluir lo que imaginamos para el futuro. Así podremos ver cómo hemos crecido y cambiado con el paso del tiempo.</p>
+<p>Después, cada alumno/a explicará su línea del tiempo en voz alta, contando lo que aparece en cada imagen y por qué es importante. Esta exposición será grabada en vídeo.</p>
+<p>Por último, ese vídeo se convertirá en un código QR, que colocaremos en nuestro Biomuseo.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Repasa estos conceptos en las siguientes actividades interactivas: </p>
+<p><a href="https://www.liveworksheets.com/es/worksheet/es/personal-social/306564">https://www.liveworksheets.com/es/worksheet/es/personal-social/306564</a></p>
+<p>https://www.liveworksheets.com/worksheet/es/historia/1348581</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433823073-mliamipvf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>En una cartulina vamos a crear nuestra línea del tiempo personal. Para ello, utilizaremos fotografías de diferentes momentos importantes de nuestra vida. Las colocaremos en orden, desde el pasado hasta el presente, e incluso podemos incluir lo que imaginamos para el futuro. Así podremos ver cómo hemos crecido y cambiado con el paso del tiempo.</p>\n<p>Después, cada alumno/a explicará su línea del tiempo en voz alta, contando lo que aparece en cada imagen y por qué es importante. Esta exposición será grabada en vídeo.</p>\n<p>Por último, ese vídeo se convertirá en un código QR, que colocaremos en nuestro Biomuseo.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Repasa estos conceptos en las siguientes actividades interactivas: </p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/es/personal-social/306564\">https://www.liveworksheets.com/es/worksheet/es/personal-social/306564</a></p>\n<p>https://www.liveworksheets.com/worksheet/es/historia/1348581</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Repasa estos conceptos en las siguientes actividades interactivas: </p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/es/personal-social/306564\">https://www.liveworksheets.com/es/worksheet/es/personal-social/306564</a></p>\n<p>https://www.liveworksheets.com/worksheet/es/historia/1348581</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+      <odeBlockId>block-1778434093871-jgpef1p4h</odeBlockId>
+      <blockName>LA CÁPSULA DEL TIEMPO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+          <odeBlockId>block-1778434093871-jgpef1p4h</odeBlockId>
+          <odeIdeviceId>idevice-1778434093870-h1645ir0f</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Hemos descubierto una caja muy interesante en nuestra clase. ¿Os atrevéis a abrirla?</p>
+<p>Vamos a descubrir lo que contiene esa misteriosa caja. </p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Abriremos la caja y observaremos los objetos que hay en su interior, así como leeremos una misteriosa carta. </p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>¡Bingo! Se trata de una cápsula del tiempo y aceptaremos nuestro próximo reto: crear nuestra cápsula del tiempo.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Visualizaremos un vídeo para entender qué es una cápsula del tiempo y cómo podemos crearla. A partir de lo que veamos, trabajaremos la comprensión oral para asegurarnos de que sabemos qué pasos debemos seguir.</p>
+<p><br /></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/V1m3v26PTnM" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/9L8-K0qh4FU" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si el alumnado no comprende la idea principal, se volverán a explicar los conceptos clave con ejemplos sencillos y cercanos, reforzando la diferencia entre presente y futuro.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Haremos una lluvia de ideas para decidir qué vamos a meter en la cápsula, cómo la vamos a preparar y dónde podríamos guardarla o esconderla.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si las ideas no son adecuadas o no están relacionadas con la actividad, se guiará al alumnado con preguntas sencillas para reconducir la propuesta y favorecer la participación.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Cada alumno/a traerá objetos importantes o significativos de su vida y los colocará dentro de la cápsula del tiempo.</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Cada alumno/a escribirá una pequeña carta en la que explicará cómo se imagina dentro de cinco años y qué significado tienen los objetos que ha incluido.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Sigue la plantilla de la carta. </p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Construimos nuestra cápsula del tiempo. </p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>¡No olvides meter los objetos seleccionados y la carta!</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778434093870-h1645ir0f","typeGame":"Case study","history":"<p>Hemos descubierto una caja muy interesante en nuestra clase. ¿Os atrevéis a abrirla?</p>\n<p>Vamos a descubrir lo que contiene esa misteriosa caja. </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Abriremos la caja y observaremos los objetos que hay en su interior, así como leeremos una misteriosa carta. </p>","feedback":"<p>¡Bingo! Se trata de una cápsula del tiempo y aceptaremos nuestro próximo reto: crear nuestra cápsula del tiempo.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Visualizaremos un vídeo para entender qué es una cápsula del tiempo y cómo podemos crearla. A partir de lo que veamos, trabajaremos la comprensión oral para asegurarnos de que sabemos qué pasos debemos seguir.</p>\n<p><br /></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/V1m3v26PTnM\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/9L8-K0qh4FU\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>","feedback":"<p>Si el alumnado no comprende la idea principal, se volverán a explicar los conceptos clave con ejemplos sencillos y cercanos, reforzando la diferencia entre presente y futuro.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Haremos una lluvia de ideas para decidir qué vamos a meter en la cápsula, cómo la vamos a preparar y dónde podríamos guardarla o esconderla.</p>","feedback":"<p>Si las ideas no son adecuadas o no están relacionadas con la actividad, se guiará al alumnado con preguntas sencillas para reconducir la propuesta y favorecer la participación.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Cada alumno/a traerá objetos importantes o significativos de su vida y los colocará dentro de la cápsula del tiempo.</p>","feedback":"","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Cada alumno/a escribirá una pequeña carta en la que explicará cómo se imagina dentro de cinco años y qué significado tienen los objetos que ha incluido.</p>","feedback":"<p>Sigue la plantilla de la carta. </p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Construimos nuestra cápsula del tiempo. </p>","feedback":"<p>¡No olvides meter los objetos seleccionados y la carta!</p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+      <odeBlockId>block-1778434711613-fkz5da530</odeBlockId>
+      <blockName>MI YO EN EL FUTURO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984h9-6psy4gtq6</odePageId>
+          <odeBlockId>block-1778434711613-fkz5da530</odeBlockId>
+          <odeIdeviceId>idevice-1778434711611-xn7lfwzak</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora vamos a imaginar algo muy especial: cómo seremos dentro de veinte años. Pensaremos cómo puede cambiar nuestro rostro, cómo creceremos y cómo nos imaginamos de adultos. Hablaremos sobre nuestros sueños, nuestras posibles profesiones y cómo será nuestra vida en el futuro.</p>
+<p>Con permiso y autorización de los tutores legales, utilizaremos una herramienta de inteligencia artificial educativa para generar una imagen de cómo podríamos ser dentro de veinte años.</p>
+<p>Imprimiremos la imagen generada y la pegaremos en una cartulina para convertirla en un cuadro del museo.</p>
+<p>Decoraremos el marco del cuadro de forma creativa, utilizando materiales y diseños personales para hacerlo único. Así completaremos la parte del futuro en nuestro Biomuseo, mostrando cómo nos imaginamos dentro de veinte años.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434711611-xn7lfwzak","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora vamos a imaginar algo muy especial: cómo seremos dentro de veinte años. Pensaremos cómo puede cambiar nuestro rostro, cómo creceremos y cómo nos imaginamos de adultos. Hablaremos sobre nuestros sueños, nuestras posibles profesiones y cómo será nuestra vida en el futuro.</p>\n<p>Con permiso y autorización de los tutores legales, utilizaremos una herramienta de inteligencia artificial educativa para generar una imagen de cómo podríamos ser dentro de veinte años.</p>\n<p>Imprimiremos la imagen generada y la pegaremos en una cartulina para convertirla en un cuadro del museo.</p>\n<p>Decoraremos el marco del cuadro de forma creativa, utilizando materiales y diseños personales para hacerlo único. Así completaremos la parte del futuro en nuestro Biomuseo, mostrando cómo nos imaginamos dentro de veinte años.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984ha-cjasn775z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL FIN DE LA VISITA.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL FIN DE LA VISITA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL FIN DE LA VISITA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EL FIN DE LA VISITA.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984ha-cjasn775z</odePageId>
+      <odeBlockId>block-1778434857144-l2otbduay</odeBlockId>
+      <blockName>Montamos nuestro museo.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984ha-cjasn775z</odePageId>
+          <odeBlockId>block-1778434857144-l2otbduay</odeBlockId>
+          <odeIdeviceId>idevice-1778434857143-dcf5yk4pk</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Ha llegado el momento más esperado del proyecto: vamos a montar nuestro propio Biomuseo con todo lo que hemos creado sobre nuestra vida.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Nos dividiremos en grupos y cada equipo será responsable de una parte del museo. Dentro de cada grupo, repartiremos distintos roles (organización, decoración, colocación de trabajos, revisión, etc.) para trabajar de forma cooperativa.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si algún grupo no se organiza bien, se guía al alumnado en la distribución de roles y en la toma de decisiones, reforzando el trabajo en equipo y la participación de todos.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Cada grupo colocará sus trabajos en el espacio del museo (pasillo), ordenando las obras en pasado, presente y futuro, y decorando su zona para que quede atractiva y clara.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Si la colocación no sigue el orden temporal o la presentación no es adecuada, se orienta al alumnado para reorganizar los elementos y mejorar la claridad del recorrido del museo.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Elaboraremos entradas para invitar a la comunidad educativa a la apertura de nuestro museo, indicando la fecha y la hora del evento.</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Seguir las plantillas de invitación.</p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p>Grabaremos un vídeo con croma anunciando la apertura del museo, invitando a familias y compañeros a visitarlo. Con esta actividad, damos vida a nuestro Biomuseo y compartimos todo lo que hemos aprendido sobre nuestra historia personal.</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778434857143-dcf5yk4pk","typeGame":"Case study","history":"<p>Ha llegado el momento más esperado del proyecto: vamos a montar nuestro propio Biomuseo con todo lo que hemos creado sobre nuestra vida.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Nos dividiremos en grupos y cada equipo será responsable de una parte del museo. Dentro de cada grupo, repartiremos distintos roles (organización, decoración, colocación de trabajos, revisión, etc.) para trabajar de forma cooperativa.</p>","feedback":"<p>Si algún grupo no se organiza bien, se guía al alumnado en la distribución de roles y en la toma de decisiones, reforzando el trabajo en equipo y la participación de todos.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Cada grupo colocará sus trabajos en el espacio del museo (pasillo), ordenando las obras en pasado, presente y futuro, y decorando su zona para que quede atractiva y clara.</p>","feedback":"<p>Si la colocación no sigue el orden temporal o la presentación no es adecuada, se orienta al alumnado para reorganizar los elementos y mejorar la claridad del recorrido del museo.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Elaboraremos entradas para invitar a la comunidad educativa a la apertura de nuestro museo, indicando la fecha y la hora del evento.</p>","feedback":"<p>Seguir las plantillas de invitación.</p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p>Grabaremos un vídeo con croma anunciando la apertura del museo, invitando a familias y compañeros a visitarlo. Con esta actividad, damos vida a nuestro Biomuseo y compartimos todo lo que hemos aprendido sobre nuestra historia personal.</p>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984hb-go5vnw7f9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984hb-go5vnw7f9</odePageId>
+      <odeBlockId>block-1778436477602-1d2kx6dkt</odeBlockId>
+      <blockName>¿Qué hemos aprendido?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hb-go5vnw7f9</odePageId>
+          <odeBlockId>block-1778436477602-1d2kx6dkt</odeBlockId>
+          <odeIdeviceId>idevice-1778436477601-qc7lgltli</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a jugar a un Kahoot muy divertido para pensar sobre lo que hemos aprendido en el proyecto.</p>
+<p><a href="https://create.kahoot.it/share/autoevaluacion/ec4c4924-13f5-4444-bd81-ab9f5b1a4090" title="">https://create.kahoot.it/share/autoevaluacion/ec4c4924-13f5-4444-bd81-ab9f5b1a4090</a></p>
+<p>Con este juego:</p>
+<ul>
+<li>Responderemos preguntas sobre el uso de la tecnología.</li>
+<li>Recordaremos lo que hemos trabajado en el Biomuseo.</li>
+<li>Diremos qué actividades nos han gustado más.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436477601-qc7lgltli","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a jugar a un Kahoot muy divertido para pensar sobre lo que hemos aprendido en el proyecto.</p>\n<p><a href=\"https://create.kahoot.it/share/autoevaluacion/ec4c4924-13f5-4444-bd81-ab9f5b1a4090\" title=\"\">https://create.kahoot.it/share/autoevaluacion/ec4c4924-13f5-4444-bd81-ab9f5b1a4090</a></p>\n<p>Con este juego:</p>\n<ul>\n<li>Responderemos preguntas sobre el uso de la tecnología.</li>\n<li>Recordaremos lo que hemos trabajado en el Biomuseo.</li>\n<li>Diremos qué actividades nos han gustado más.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984hb-go5vnw7f9</odePageId>
+      <odeBlockId>block-1778436594194-c3slqei20</odeBlockId>
+      <blockName>Evaluamos el trabajo en equipo.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hb-go5vnw7f9</odePageId>
+          <odeBlockId>block-1778436594194-c3slqei20</odeBlockId>
+          <odeIdeviceId>idevice-1778436594193-1cu25nblr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Mientras montamos el museo en el pasillo, el profesor o la profesora observará cómo trabajamos en grupo.</p>
+<p>Se fijará en cosas como:</p>
+<ul>
+<li>Si respetamos a nuestros compañeros y compañeras.</li>
+<li>Si escuchamos las ideas de los demás.</li>
+<li>Si hacemos bien nuestro trabajo dentro del grupo.</li>
+<li>También valorará cómo resolvemos pequeños problemas o conflictos de forma tranquila y respetuosa.</li>
+</ul><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Observa esta escala de valoración que el maestro/a utilizará para evaluar el trabajo en equipo: </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform</a></p>
+<p></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436594193-1cu25nblr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Mientras montamos el museo en el pasillo, el profesor o la profesora observará cómo trabajamos en grupo.</p>\n<p>Se fijará en cosas como:</p>\n<ul>\n<li>Si respetamos a nuestros compañeros y compañeras.</li>\n<li>Si escuchamos las ideas de los demás.</li>\n<li>Si hacemos bien nuestro trabajo dentro del grupo.</li>\n<li>También valorará cómo resolvemos pequeños problemas o conflictos de forma tranquila y respetuosa.</li>\n</ul><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Observa esta escala de valoración que el maestro/a utilizará para evaluar el trabajo en equipo: </p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform</a></p>\n<p></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Observa esta escala de valoración que el maestro/a utilizará para evaluar el trabajo en equipo: </p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSfGfHOzgL5Uv0vIDjC6UHlTHs5HeRwUc10HDfisheNI0PaPSg/viewform</a></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+      <odeBlockId>block-1778436919069-yp71vn0r4</odeBlockId>
+      <blockName>RECOMENDACIONES PARA SU APLICACIÓN EN EL AULA.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+          <odeBlockId>block-1778436919069-yp71vn0r4</odeBlockId>
+          <odeIdeviceId>idevice-1778436919068-9pum1bpqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está diseñado para el alumnado de 1.º de Educación Primaria, por lo que todas las actividades deben desarrollarse de forma muy guiada, visual y manipulativa. Es importante adaptar el ritmo de trabajo a las necesidades del grupo, ofreciendo apoyos constantes en la comprensión de consignas y en el uso de herramientas digitales.</p>
+<p>Se recomienda fomentar un ambiente de aprendizaje activo y motivador, donde el alumnado sea protagonista de su historia personal. El docente debe actuar como guía, facilitando modelos, ejemplos y apoyos visuales para favorecer la participación de todo el alumnado, especialmente en actividades de expresión oral y creación digital.</p>
+<p>El uso de herramientas digitales (vídeo, audio, imágenes, QR o IA educativa) debe realizarse siempre de forma supervisada, asegurando un uso seguro y adecuado a la edad. Es importante anticipar posibles dificultades técnicas y ofrecer alternativas sencillas cuando sea necesario.</p>
+<p>Asimismo, se recomienda prestar especial atención al trabajo cooperativo, estableciendo roles claros dentro de los grupos y supervisando la dinámica para garantizar la participación equitativa y el respeto entre iguales.</p>
+<p>Por último, se aconseja flexibilizar las actividades en función del contexto del aula, priorizando siempre la comprensión del alumnado, la expresión de su identidad personal y el desarrollo de la competencia digital de manera progresiva y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436919068-9pum1bpqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está diseñado para el alumnado de 1.º de Educación Primaria, por lo que todas las actividades deben desarrollarse de forma muy guiada, visual y manipulativa. Es importante adaptar el ritmo de trabajo a las necesidades del grupo, ofreciendo apoyos constantes en la comprensión de consignas y en el uso de herramientas digitales.</p>\n<p>Se recomienda fomentar un ambiente de aprendizaje activo y motivador, donde el alumnado sea protagonista de su historia personal. El docente debe actuar como guía, facilitando modelos, ejemplos y apoyos visuales para favorecer la participación de todo el alumnado, especialmente en actividades de expresión oral y creación digital.</p>\n<p>El uso de herramientas digitales (vídeo, audio, imágenes, QR o IA educativa) debe realizarse siempre de forma supervisada, asegurando un uso seguro y adecuado a la edad. Es importante anticipar posibles dificultades técnicas y ofrecer alternativas sencillas cuando sea necesario.</p>\n<p>Asimismo, se recomienda prestar especial atención al trabajo cooperativo, estableciendo roles claros dentro de los grupos y supervisando la dinámica para garantizar la participación equitativa y el respeto entre iguales.</p>\n<p>Por último, se aconseja flexibilizar las actividades en función del contexto del aula, priorizando siempre la comprensión del alumnado, la expresión de su identidad personal y el desarrollo de la competencia digital de manera progresiva y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+      <odeBlockId>block-1778435823386-gjepf60fh</odeBlockId>
+      <blockName>RELACIÓN CURRICULAR.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+          <odeBlockId>block-1778435823386-gjepf60fh</odeBlockId>
+          <odeIdeviceId>idevice-1778435823385-97a8m9n2v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 1964px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 20.7092%; height: 33px;">TAREA</td>
+<td style="width: 41.844%; height: 33px;">CRITERIO DE EVALUACIÓN</td>
+<td style="width: 16.3121%; height: 33px;">TIEMPO</td>
+<td style="width: 21.1348%; height: 33px;">HERRAMIENTA</td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 20.7092%; height: 129px;"> Introducción. <br /></td>
+<td style="width: 41.844%; height: 129px;"> LCL. 2.1.a. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos.<br /></td>
+<td style="width: 16.3121%; height: 129px;">
+<p>1 Sesión</p>
+<p>1 hora </p>
+<p><br /></p>
+</td>
+<td style="width: 21.1348%; height: 129px;"> Vídeo educativo. <br /></td>
+</tr>
+<tr style="height: 201px;">
+<td style="width: 20.7092%; height: 201px;">
+<p>Caja de la vida</p>
+<p><br /></p>
+</td>
+<td style="width: 41.844%; height: 201px;">
+<p>LCL. 3.1.a. Producir textos orales y multimodales sencillos, con planificación acompañada a partir de modelos</p>
+<p>dados.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 201px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 201px;"> Audacity<br /></td>
+</tr>
+<tr style="height: 161px;">
+<td style="width: 20.7092%; height: 161px;"> Álbum de fotos<br /></td>
+<td style="width: 41.844%; height: 161px;">
+<p>LCL. 3.1.a. Producir textos orales y multimodales sencillos, con planificación acompañada a partir de modelos dados.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 161px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 161px;"> Audacity<br /></td>
+</tr>
+<tr style="height: 185px;">
+<td style="width: 20.7092%; height: 185px;">Árbol genealógico</td>
+<td style="width: 41.844%; height: 185px;">
+<p>CMN. 2.2.a. Iniciarse en la búsqueda de información sencilla de algunas fuentes seguras y fiables, utilizándola en pequeñas investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 185px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 185px;"> Tabletas<br /></td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 20.7092%; height: 129px;"> Escudo de nuestros apellidos<br /></td>
+<td style="width: 41.844%; height: 129px;"> LCL. 6.3.a. Iniciarse de manera acompañada en el uso, seguro y saludable de las tecnologías digitales en relación con la búsqueda de la información.<br /></td>
+<td style="width: 16.3121%; height: 129px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 129px;"> Tabletas<br /></td>
+</tr>
+<tr style="height: 161px;">
+<td style="width: 20.7092%; height: 161px;"> ¿Qué es una autobiografía?<br /></td>
+<td style="width: 41.844%; height: 161px;">
+<p>LCL. 3.2.a. Participar en interacciones orales, a partir de modelos dados utilizando algunas normas básicas de la cortesía lingüística.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 161px;"> 1 sesión de 45 minutos <br /></td>
+<td style="width: 21.1348%; height: 161px;"> Vídeo explicativo youtube. <br /></td>
+</tr>
+<tr style="height: 201px;">
+<td style="width: 20.7092%; height: 201px;"> Autorretrato<br /></td>
+<td style="width: 41.844%; height: 201px;">
+<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso</p>
+<p>evolutivo de la escritura, ajustándose a modelos dados.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 201px;"> 1 sesión de 45 minutos <br /></td>
+<td style="width: 21.1348%; height: 201px;">Vídeo explicativo youtube.</td>
+</tr>
+<tr style="height: 185px;">
+<td style="width: 20.7092%; height: 185px;"> La simetría de nuestros rostros<br /></td>
+<td style="width: 41.844%; height: 185px;">
+<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 185px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 185px;">
+<p>Plantilla de producción escrita para inscripción.</p>
+<p>Vídeo explicativo</p>
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 345px;">
+<td style="width: 20.7092%; height: 345px;"> Línea del tiempo<br /></td>
+<td style="width: 41.844%; height: 345px;">
+<p>CMN 7.1.a. Ordenar temporalmente hechos del entorno social y cultural cercano, iniciándose en el empleo de nociones de medida y sucesión básicas.</p>
+<p>MAT. 1.2.a. Interpretar ejemplos de representaciones de situaciones problematizadas sencillas, con recursos manipulativos que ayuden en la resolución de un problema de la vida cotidiana, colaborando entre iguales.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 345px;"> 2 sesiones de 45 minutos.<br /></td>
+<td style="width: 21.1348%; height: 345px;">
+<p>Códigos Qr</p>
+<p>Fotografías </p>
+<p>Vídeo explicativo.</p>
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 185px;">
+<td style="width: 20.7092%; height: 185px;"> Cápsula del tiempo<br /></td>
+<td style="width: 41.844%; height: 185px;">
+<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados.</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 185px;"> 2 sesiones de 45 minutos <br /></td>
+<td style="width: 21.1348%; height: 185px;">
+<p>Plantilla de carta</p>
+<p>Vídeo explicativo</p>
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 49px;">
+<td style="width: 20.7092%; height: 49px;"> Montamos nuestro museo<br /></td>
+<td style="width: 41.844%; height: 49px;">
+<p>MAT. 8.1.a. Participar respetuosamente en el trabajo en equipo, comenzando a establecer relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos, aprendiendo a autocontrolarse en situaciones entre iguales</p>
+<p><br /></p>
+</td>
+<td style="width: 16.3121%; height: 49px;"> 3 sesiones de 45 minutos <br /></td>
+<td style="width: 21.1348%; height: 49px;">
+<p>Códigos QR</p>
+<p>Cartel</p>
+<p>Vídeo croma. </p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.7092%;"> Autoevaluación<br /></td>
+<td style="width: 41.844%;">
+<p> CMN. 1.1.a. Iniciarse en la utilización de dispositivos y recursos digitales sencillos de acuerdo con las necesidades básicas del contexto educativo de forma segura<br /></p>
+</td>
+<td style="width: 16.3121%;"> 1 sesión de 45 minutos<br /></td>
+<td style="width: 21.1348%;">
+<p style="text-align: justify;"> Tableta<br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435823385-97a8m9n2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 1964px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 20.7092%; height: 33px;\">TAREA</td>\n<td style=\"width: 41.844%; height: 33px;\">CRITERIO DE EVALUACIÓN</td>\n<td style=\"width: 16.3121%; height: 33px;\">TIEMPO</td>\n<td style=\"width: 21.1348%; height: 33px;\">HERRAMIENTA</td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 20.7092%; height: 129px;\"> Introducción. <br /></td>\n<td style=\"width: 41.844%; height: 129px;\"> LCL. 2.1.a. Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos.<br /></td>\n<td style=\"width: 16.3121%; height: 129px;\">\n<p>1 Sesión</p>\n<p>1 hora </p>\n<p><br /></p>\n</td>\n<td style=\"width: 21.1348%; height: 129px;\"> Vídeo educativo. <br /></td>\n</tr>\n<tr style=\"height: 201px;\">\n<td style=\"width: 20.7092%; height: 201px;\">\n<p>Caja de la vida</p>\n<p><br /></p>\n</td>\n<td style=\"width: 41.844%; height: 201px;\">\n<p>LCL. 3.1.a. Producir textos orales y multimodales sencillos, con planificación acompañada a partir de modelos</p>\n<p>dados.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 201px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 201px;\"> Audacity<br /></td>\n</tr>\n<tr style=\"height: 161px;\">\n<td style=\"width: 20.7092%; height: 161px;\"> Álbum de fotos<br /></td>\n<td style=\"width: 41.844%; height: 161px;\">\n<p>LCL. 3.1.a. Producir textos orales y multimodales sencillos, con planificación acompañada a partir de modelos dados.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 161px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 161px;\"> Audacity<br /></td>\n</tr>\n<tr style=\"height: 185px;\">\n<td style=\"width: 20.7092%; height: 185px;\">Árbol genealógico</td>\n<td style=\"width: 41.844%; height: 185px;\">\n<p>CMN. 2.2.a. Iniciarse en la búsqueda de información sencilla de algunas fuentes seguras y fiables, utilizándola en pequeñas investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 185px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 185px;\"> Tabletas<br /></td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 20.7092%; height: 129px;\"> Escudo de nuestros apellidos<br /></td>\n<td style=\"width: 41.844%; height: 129px;\"> LCL. 6.3.a. Iniciarse de manera acompañada en el uso, seguro y saludable de las tecnologías digitales en relación con la búsqueda de la información.<br /></td>\n<td style=\"width: 16.3121%; height: 129px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 129px;\"> Tabletas<br /></td>\n</tr>\n<tr style=\"height: 161px;\">\n<td style=\"width: 20.7092%; height: 161px;\"> ¿Qué es una autobiografía?<br /></td>\n<td style=\"width: 41.844%; height: 161px;\">\n<p>LCL. 3.2.a. Participar en interacciones orales, a partir de modelos dados utilizando algunas normas básicas de la cortesía lingüística.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 161px;\"> 1 sesión de 45 minutos <br /></td>\n<td style=\"width: 21.1348%; height: 161px;\"> Vídeo explicativo youtube. <br /></td>\n</tr>\n<tr style=\"height: 201px;\">\n<td style=\"width: 20.7092%; height: 201px;\"> Autorretrato<br /></td>\n<td style=\"width: 41.844%; height: 201px;\">\n<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso</p>\n<p>evolutivo de la escritura, ajustándose a modelos dados.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 201px;\"> 1 sesión de 45 minutos <br /></td>\n<td style=\"width: 21.1348%; height: 201px;\">Vídeo explicativo youtube.</td>\n</tr>\n<tr style=\"height: 185px;\">\n<td style=\"width: 20.7092%; height: 185px;\"> La simetría de nuestros rostros<br /></td>\n<td style=\"width: 41.844%; height: 185px;\">\n<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 185px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 185px;\">\n<p>Plantilla de producción escrita para inscripción.</p>\n<p>Vídeo explicativo</p>\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 345px;\">\n<td style=\"width: 20.7092%; height: 345px;\"> Línea del tiempo<br /></td>\n<td style=\"width: 41.844%; height: 345px;\">\n<p>CMN 7.1.a. Ordenar temporalmente hechos del entorno social y cultural cercano, iniciándose en el empleo de nociones de medida y sucesión básicas.</p>\n<p>MAT. 1.2.a. Interpretar ejemplos de representaciones de situaciones problematizadas sencillas, con recursos manipulativos que ayuden en la resolución de un problema de la vida cotidiana, colaborando entre iguales.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 345px;\"> 2 sesiones de 45 minutos.<br /></td>\n<td style=\"width: 21.1348%; height: 345px;\">\n<p>Códigos Qr</p>\n<p>Fotografías </p>\n<p>Vídeo explicativo.</p>\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 185px;\">\n<td style=\"width: 20.7092%; height: 185px;\"> Cápsula del tiempo<br /></td>\n<td style=\"width: 41.844%; height: 185px;\">\n<p>LCL. 5.1.a. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 185px;\"> 2 sesiones de 45 minutos <br /></td>\n<td style=\"width: 21.1348%; height: 185px;\">\n<p>Plantilla de carta</p>\n<p>Vídeo explicativo</p>\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 20.7092%; height: 49px;\"> Montamos nuestro museo<br /></td>\n<td style=\"width: 41.844%; height: 49px;\">\n<p>MAT. 8.1.a. Participar respetuosamente en el trabajo en equipo, comenzando a establecer relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos, aprendiendo a autocontrolarse en situaciones entre iguales</p>\n<p><br /></p>\n</td>\n<td style=\"width: 16.3121%; height: 49px;\"> 3 sesiones de 45 minutos <br /></td>\n<td style=\"width: 21.1348%; height: 49px;\">\n<p>Códigos QR</p>\n<p>Cartel</p>\n<p>Vídeo croma. </p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20.7092%;\"> Autoevaluación<br /></td>\n<td style=\"width: 41.844%;\">\n<p> CMN. 1.1.a. Iniciarse en la utilización de dispositivos y recursos digitales sencillos de acuerdo con las necesidades básicas del contexto educativo de forma segura<br /></p>\n</td>\n<td style=\"width: 16.3121%;\"> 1 sesión de 45 minutos<br /></td>\n<td style=\"width: 21.1348%;\">\n<p style=\"text-align: justify;\"> Tableta<br /></p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+      <odeBlockId>block-1778430568183-gxvitbchv</odeBlockId>
+      <blockName>BANCO DE RECURSOS EDUCATIVOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hb-o4kyidy6x</odePageId>
+          <odeBlockId>block-1778430568183-gxvitbchv</odeBlockId>
+          <odeIdeviceId>idevice-1778430568183-vdjl9t673</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mromcab793/curacion-de-contenidos-su093pdqvq3n84p8" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4984hc-5pnfzza1c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4984hc-5pnfzza1c</odePageId>
+      <odeBlockId>block-1778435402233-7hydu00qx</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4984hc-5pnfzza1c</odePageId>
+          <odeBlockId>block-1778435402233-7hydu00qx</odeBlockId>
+          <odeIdeviceId>idevice-1778435402233-ek7muh92i</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">BIOMUSEO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
